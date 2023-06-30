@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>2023-06-30 top ten for volatility</title>
+      <link href="/2023/07/01/2023-06-30-top-ten-for-volatility/"/>
+      <url>/2023/07/01/2023-06-30-top-ten-for-volatility/</url>
+      
+        <content type="html"><![CDATA[<h1>6月30日看涨看跌期权波动率前十</h1><table><thead><tr><th>Symbol</th><th>Price</th><th>Size</th><th>Conditions</th><th>Exchange</th><th>Trade Time</th></tr></thead><tbody><tr><td>SPY230811P00380000</td><td>0.36</td><td>105,000</td><td>Multi Leg floor trade</td><td>Nasdaq Philadelphia Exchange, LLC - Options</td><td>6/30/2023, 10:21:03 AM EST</td></tr><tr><td>SNAP230818C00012000</td><td>1.28</td><td>57,131</td><td>Single Leg Floor Trade</td><td>NYSE Arca, Inc. - Options</td><td>6/30/2023, 10:41:02 AM EST</td></tr><tr><td>SPY230811P00395000</td><td>0.57</td><td>52,500</td><td>Multi Leg floor trade</td><td>Nasdaq Philadelphia Exchange, LLC - Options</td><td>6/30/2023, 10:21:03 AM EST</td></tr><tr><td>SPY230811P00365000</td><td>0.25</td><td>52,500</td><td>Multi Leg floor trade</td><td>Nasdaq Philadelphia Exchange, LLC - Options</td><td>6/30/2023, 10:21:03 AM EST</td></tr><tr><td>VIX231018C00045000</td><td>0.52</td><td>40,000</td><td>Multi Leg Auction</td><td>Chicago Board Options Exchange</td><td>6/30/2023, 10:33:33 AM EST</td></tr><tr><td>EEM230915P00036000</td><td>0.2</td><td>39,300</td><td>Multi Leg Cross</td><td>NYSE American Options</td><td>6/30/2023, 10:46:26 AM EST</td></tr><tr><td>VIX230816C00047500</td><td>0.14</td><td>30,000</td><td>Multi Leg Auction</td><td>Chicago Board Options Exchange</td><td>6/30/2023, 10:33:33 AM EST</td></tr><tr><td>F230915P00013000</td><td>0.24</td><td>22,978</td><td>Multi Leg floor trade</td><td>NYSE American Options</td><td>6/30/2023, 9:40:04 AM EST</td></tr><tr><td>F230915C00016000</td><td>0.51</td><td>22,978</td><td>Multi Leg floor trade</td><td>NYSE American Options</td><td>6/30/2023, 9:40:04 AM EST</td></tr><tr><td>EEM230818P00037000</td><td>0.16</td><td>20,854</td><td>Multi Leg Auction</td><td>International Securities Exchange, LLC</td><td>6/30/2023, 10:07:17 AM EST</td></tr></tbody></table><ul><li><p><strong>Symbol</strong>：这是期权的标识符，它包括了底层资产的股票代码、到期日期和行权价格。例如，&quot;SPY230811P00380000&quot;代表的是SPY（S&amp;P 500 ETF）的期权，到期日期是2023年8月11日，行权价格是$380，P表示这是一个看跌期权。</p></li><li><p><strong>Price</strong>：这是期权的交易价格，表示买方为购买这个期权合约支付给卖方的价格。</p></li><li><p><strong>Size</strong>：这是交易的规模，表示在这笔交易中交换手的期权合约的数量。</p></li><li><p><strong>Conditions</strong>：这是交易的条件，描述了这笔交易是如何进行的。例如，&quot;Multi Leg floor trade&quot;表示这是一个在交易所现场进行的多腿交易。</p></li><li><p><strong>Exchange</strong>：这是进行交易的交易所。</p></li><li><p><strong>Trade Time</strong>：这是交易发生的时间。</p></li></ul><p>这些信息可以帮助投资者了解市场上最活跃的期权交易，从而更好地理解市场的动态。</p><p>多腿交易（Multi-leg trade）是一种包含两个或更多个期权交易的策略。这些交易可能涉及同一支或不同的股票，也可能涉及不同的执行价格和/或到期日期。多腿交易策略的一个常见例子是期权的价差交易，如垂直价差、日历价差、比例价差等。</p><p>例如，一个投资者可能会同时买入一份看涨期权并卖出另一份看涨期权（这两份期权的行权价格不同），这就构成了一个多腿交易。这种策略可能会用于限制潜在的损失，或者在某些市场条件下提高收益。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ChatGPT </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Nvidia: 5 Reasons the Tech Giant&#39;s Ascent is Far From Finished</title>
       <link href="/2023/06/23/Nvidia-5-Reasons-the-Tech-Giant-s-Ascent-is-Far-From-Finished/"/>
       <url>/2023/06/23/Nvidia-5-Reasons-the-Tech-Giant-s-Ascent-is-Far-From-Finished/</url>
